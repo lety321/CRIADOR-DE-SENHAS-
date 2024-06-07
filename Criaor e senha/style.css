@@ -1,0 +1,20 @@
+:root{
+    --branco: white;
+   --cor-de-fundo: #00162E;
+   --fundo-senha: #001E40;
+   --fundo-texto: #001E40;
+   --borda: #0075FF;
+ }
+ 
+ body{ 
+     color: var(--branco);
+     background-color: var(--cor-de-fundo)
+ }
+ .título-principal{
+      font-family: var(--roboto-mono);
+      font-size: 32px;
+ }    
+
+.titulo-secundario{
+    font-size: 24px;
+}
